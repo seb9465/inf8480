@@ -1,0 +1,18 @@
+[
+  {
+    "ID": "9bf10c8b-7d8b-4fa8-a851-29358716c1fb",
+    "Name": "equipe21-machine",
+    "Status": "ACTIVE",
+    "Networks": "switch1-nat=10.10.100.212",
+    "Image": "",
+    "Flavor": "2048-10-1-1"
+  },
+  {
+    "ID": "1191a4ad-a217-43ad-8709-d73677a03428",
+    "Name": "Houssem-machine",
+    "Status": "ACTIVE",
+    "Networks": "switch1-nat=10.10.100.50",
+    "Image": "",
+    "Flavor": "2048-10-1-1"
+  }
+]

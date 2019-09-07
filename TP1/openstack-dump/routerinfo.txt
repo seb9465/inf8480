@@ -1,0 +1,20 @@
+{
+  "admin_state_up": "UP",
+  "availability_zone_hints": "",
+  "availability_zones": "nova",
+  "created_at": "2019-05-30T02:57:12Z",
+  "description": "",
+  "distributed": null,
+  "external_gateway_info": null,
+  "flavor_id": null,
+  "ha": null,
+  "id": "fc96b655-1406-4407-a26e-c03ffb3aa32d",
+  "interfaces_info": "[{\"port_id\": \"1577704d-b4d6-47ab-8ef2-6912d309d103\", \"ip_address\": \"192.170.18.1\", \"subnet_id\": \"215527b8-7dfc-4847-8265-2bb138813802\"}, {\"port_id\": \"709e2bf0-115a-48ee-9f4a-f0d753f3fa5f\", \"ip_address\": \"192.169.9.1\", \"subnet_id\": \"456f9259-4c4c-4fcc-b9a4-4896e471e249\"}]",
+  "name": "Housssem-routeur",
+  "project_id": "94206eb6602a48e594c6cc045427abf6",
+  "revision_number": 3,
+  "routes": "",
+  "status": "ACTIVE",
+  "tags": "",
+  "updated_at": "2019-05-30T02:58:23Z"
+}
